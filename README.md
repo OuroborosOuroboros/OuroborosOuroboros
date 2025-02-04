@@ -3,16 +3,32 @@
 
 ## Languages
 <p align="left">
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/><br>Python
-  </div>
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/><br>Java
-  </div>
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/><br>JavaScript
-  </div>
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+    <br>Python
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+    <br>Java
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+    <br>JavaScript
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+    <br>C
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+    <br>SQL
+  </span>
 </p>
+
 
 
 
