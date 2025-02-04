@@ -1,4 +1,4 @@
-## Davey Getchell
+# Davey Getchell
 
 # About Me
 I recently earned my Master of Science in Computer Science from Northeastern University after spending over a decade gaining professional experience across multiple industries. Driven by a passion for technology, I made the decision to change careers and pursue Computer Science.
@@ -11,28 +11,16 @@ Additionally, I explored Computer Vision, where I was introduced to training mod
 My primary focus is securing a role where I can apply the skills I developed during my coursework. In the meantime, I am exploring large datasets and deepening my understanding of Artificial Intelligence, with a goal of bridging the gap between my low-level, systems-based knowledge and a higher-level, data-driven approach to AI and machine learning.
 
 
-## Languages
-
+# Languages
 | Python | Java | JavaScript | C | SQL |
 |--------|------|-----------|---|-----|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/> |
 
 
+# Hobbies
 
 
-
-
-
-
-
-
-
-
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can connect with my on LinkedIn: https://www.linkedin.com/in/davey-getchell/ or email me at dgetch48@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+# Contact Me
 
 <!---
 OuroborosOuroboros/OuroborosOuroboros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
