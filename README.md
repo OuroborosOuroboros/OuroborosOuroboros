@@ -1,5 +1,13 @@
 - 👋 Hi, I’m Davey Getchell. I recently completed a MSCS from Northeastern University.
 - 👀 I’m interested in ...
+
+- Programming Languages:
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+
+
+
+
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can connect with my on LinkedIn: https://www.linkedin.com/in/davey-getchell/ or email me at dgetch48@gmail.com
