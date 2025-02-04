@@ -21,7 +21,7 @@ My primary focus is securing a role where I can apply the skills I developed dur
 
 ## Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/daveygetchell" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
