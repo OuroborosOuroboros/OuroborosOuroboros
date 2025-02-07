@@ -14,6 +14,7 @@ My primary focus is securing a role where I can apply the skills I developed dur
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 
 ### **Web Development**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
@@ -32,7 +33,6 @@ My primary focus is securing a role where I can apply the skills I developed dur
 ### **Databases**
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 
